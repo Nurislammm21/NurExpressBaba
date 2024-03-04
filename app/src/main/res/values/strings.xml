@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">NurExpress</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nurexpress_name">NurExpress</string>
+    <string name="welcome_text">Добро пожаловать!</string>
+    <string name="email_input_txt">Электронная почта</string>
+    <string name="password_txt_input">Пароль</string>
+    <string name="register_txt_input">Зарегистрироваться</string>
+    <string name="password_forgot_txt">Забыли пароль?</string>
 </resources>
