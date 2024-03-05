@@ -13,7 +13,7 @@
         android:theme="@style/Theme.NurExpressBaba"
         tools:targetApi="31">
         <activity
-            android:name=".splash_screen.SplashScreenActivity"
+            android:name=".ui.splash_screen.SplashScreenActivity"
             android:exported="true"
             android:noHistory="true">
 

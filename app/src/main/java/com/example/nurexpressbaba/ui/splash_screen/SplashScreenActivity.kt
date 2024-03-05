@@ -1,4 +1,4 @@
-package com.example.nurexpressbaba.splash_screen
+package com.example.nurexpressbaba.ui.splash_screen
 
 import android.annotation.SuppressLint
 import android.content.Intent
