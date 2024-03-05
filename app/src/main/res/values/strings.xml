@@ -8,4 +8,7 @@
     <string name="password_txt_input">Пароль</string>
     <string name="register_txt_input">Зарегистрироваться</string>
     <string name="password_forgot_txt">Забыли пароль?</string>
+    <string name="create_txt_acc">Создайте аккаунт</string>
+    <string name="txt_acc_create_2">Создайте свою учетную запись</string>
+    <string name="login_txt_to">Войти</string>
 </resources>
